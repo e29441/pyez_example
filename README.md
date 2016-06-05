@@ -4,12 +4,18 @@
 PyEZを使ったツールのサンプルです。
 
 ## Requirement(前提)    
-*Linux(Ubuntu)  
-*Webサーバー(Apache2)  
-*FTPサーバー  
-*PyEZ
+* Linux(Ubuntu)  
+* Webサーバー(Apache2)  
+* FTPサーバー  
+* PyEZ
 
 ## How to install(インストール方法)  
+1. Linux + Webサーバ + FTPサーバを準備する
+2. PyEZをインストールする
+3. ファイルをコピーする
+4. プログラムの初期化を実行
+5. ブラウザを立ち上げて、プログラムにアクセスする
+6. 
 
 
 
