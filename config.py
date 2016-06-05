@@ -1,4 +1,4 @@
-IP_Address = '172.27.112.58'
+IP_Address = 'localhost'
 
 PyEZ_Dir = '/var/www/pyez/'
 XML_Dir = PyEZ_Dir + 'xmls/'
