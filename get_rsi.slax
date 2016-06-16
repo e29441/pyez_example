@@ -1,0 +1,33 @@
+version 1.0;
+
+ns junos = "http://xml.juniper.net/junos/*/junos";
+ns xnm = "http://xml.juniper.net/xnm/1.1/xnm";
+ns jcs = "http://xml.juniper.net/junos/commit-scripts/1.0";
+import "/var/run/scripts/import/junos.xsl";
+
+var $arguments = {
+    <argument> {
+    	<name> "rsi-file";
+	<description> "filename for RSI result";
+    }
+}
+
+param $rsi-file;
+       
+match / {
+  <op-script-results> {
+    var $gsi = jcs:invoke('get-support-information');
+
+    var $put = <file-put> {
+      <filename> $rsi-file;
+      <encoding> "ascii";
+      <delete-if-exist>;
+      <file-contents> $gsi;
+    }   
+
+    var $result = jcs:invoke($put);
+    <output> $result;
+   
+  }
+}
+
