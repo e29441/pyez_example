@@ -2,8 +2,14 @@ IP_Address = '172.27.112.58'
 
 PyEZ_Dir = '/var/www/pyez/'
 XML_Dir = PyEZ_Dir + 'xmls/'
+
+# Credentials for Access to Device, Start IP and End IP
 Param_File = PyEZ_Dir + 'credentials.txt'
+
+# IP Address list for search 
 IP_File = PyEZ_Dir + 'ip_list.txt'
+
+
 Device_List = PyEZ_Dir + 'device_list.txt'
 
 # OS Image
