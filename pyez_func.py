@@ -20,22 +20,26 @@ def html_header():
     return str1
 
 def read_param():
-    f1 = open(config.Param_File,"r")
-    lines = f1.readlines()
-    f1.close()
+    try:
+        f1 = open(config.Param_File,"r")
+    except:
+        return 'user', 'password', '192.168.1.1', '192.168.1.254'
+    else:
+        lines = f1.readlines()
+        f1.close()
 
-    userid, passwd, ip1, ip2 = [], [], [], []
-    for line in lines:
-        if line.startswith("userid") is True:
-            userid = line.split('"')
-        if line.startswith("passwd") is True:
-            passwd = line.split('"')
-        if line.startswith("start_ip") is True:
-            start_ip = line.split('"')
-        if line.startswith("end_ip") is True:
-            end_ip = line.split('"')
+        userid, passwd, ip1, ip2 = [], [], [], []
+        for line in lines:
+            if line.startswith("userid") is True:
+                userid = line.split('"')
+            if line.startswith("passwd") is True:
+                passwd = line.split('"')
+            if line.startswith("start_ip") is True:
+                start_ip = line.split('"')
+            if line.startswith("end_ip") is True:
+                end_ip = line.split('"')
 
-    return (userid[1], passwd[1], start_ip[1], end_ip[1])
+        return (userid[1], passwd[1], start_ip[1], end_ip[1])
 
 def call_dev(ip_addr):
     userid, passwd, start_ip, end_ip = read_param()
@@ -43,7 +47,11 @@ def call_dev(ip_addr):
     return dev
 
 def get_ip_list():
-    f1 = open(config.IP_File, 'r')
+    try:
+        f1 = open(config.IP_File, 'r')
+    except IOError:
+        return []
+
     ip_list = f1.read()
     f1.close()
 
@@ -53,18 +61,15 @@ def get_ip_list():
 
 def get_basic_info(dev, ip_addr, filename):
     myprint(ip_addr + " : getting basic information...<br>")
-    #print(ip_addr + " : getting basic information...<br>")
-    print dev.facts
+#    print dev.facts
     
     hostname = dev.facts['hostname']
     model = dev.facts['model']
     if model == 'Virtual Chassis':
-        print 'This is VC'
-#        print dev.facts['master']
+#        print 'This is VC<br>'
         Master = dev.facts['master']
-#        print dev.facts[Master]['model']
         model = dev.facts[Master]['model'] + '_VC'
-    print model
+#    print model
 
     osver = dev.facts['version']
     serialnum = dev.facts['serialnumber']
@@ -74,7 +79,8 @@ def get_basic_info(dev, ip_addr, filename):
         style = 'BRIDGE_DOMAIN'
     else:
         style = 'VLAN'
-    print style
+#    print style
+
     str1 = ip_addr + ',' + hostname + ',' + model + ',' + osver + ','
     str1 += serialnum + ',' + style + '\n'
     f = open(filename, 'w')
@@ -82,7 +88,7 @@ def get_basic_info(dev, ip_addr, filename):
     f.close()
 
 def get_vlan_info(dev, ip_addr, filename):
-    print ip_addr, ' : ', filename
+#    print ip_addr, ' : ', filename
     result = dev.rpc.get_vlan_information()
 
     f = open(filename, 'w')
@@ -270,6 +276,15 @@ def try_function(ip_addr):
     get_vlan_info(dev, ip_addr, config.XML_Dir + ip_addr + '_vlan.xml')
 
     dev.close()
+
+def initial_work():
+    #credential file
+
+    
+    #XML Dir
+    if os.path.exists(config.XML_Dir) == False:
+        os.mkdir(config.XML_Dir)
+    
 
 if __name__ == '__main__':
     print sys.argv[1]

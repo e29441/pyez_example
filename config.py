@@ -1,3 +1,4 @@
+# Please edit this file
 IP_Address = '172.27.112.58'
 
 PyEZ_Dir = '/var/www/pyez/'

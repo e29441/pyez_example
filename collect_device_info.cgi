@@ -41,18 +41,23 @@ def get_device_information(t_ip, t_u, t_p):
         
 # main
 if __name__ == "__main__":
+    pyez_func.initial_work()
 
     print pyez_func.html_header()
 
     userid, passwd, start_ip, end_ip = pyez_func.read_param()
 
     ip_lists = pyez_func.get_ip_list()
-    for ip_addr in ip_lists:
+    if len(ip_lists) == 0:
+        print 'no ip address serach\r\n'
+    else:
 
-        th_me = threading.Thread(target=get_device_information, name="th_me", args=(ip_addr, userid, passwd,))
-        th_me.start()
-      
-    print "Done..."
+        for ip_addr in ip_lists:
+            if ip_addr != '':
+                
+                th_me = threading.Thread(target=get_device_information, name="th_me", args=(ip_addr, userid, passwd,))
+                th_me.start()
+
     print "</body></html>"
 
 
