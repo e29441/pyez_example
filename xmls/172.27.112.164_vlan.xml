@@ -1,0 +1,67 @@
+<vlan-information style="terse">
+<vlan-terse/>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>VLAN10</vlan-name>
+<vlan-create-time>Wed May 25 20:58:57 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>10</vlan-tag>
+<vlan-tag-string>10</vlan-tag-string>
+<vlan-index>3</vlan-index>
+<vlan-l3-interface>vlan.10 (DOWN)</vlan-l3-interface>
+<vlan-l3-interface-address>10.0.1.1/24</vlan-l3-interface-address>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-members-count>1</vlan-members-count>
+<vlan-members-upcount>0</vlan-members-upcount>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>ae0.0</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>VLAN11</vlan-name>
+<vlan-create-time>Wed May 25 20:58:57 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>11</vlan-tag>
+<vlan-tag-string>11</vlan-tag-string>
+<vlan-index>4</vlan-index>
+<vlan-l3-interface>vlan.11 (UP)</vlan-l3-interface>
+<vlan-l3-interface-address>192.168.1.254/24</vlan-l3-interface-address>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-members-count>1</vlan-members-count>
+<vlan-members-upcount>1</vlan-members-upcount>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>ge-0/0/23.0*</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>default</vlan-name>
+<vlan-create-time>Tue Mar 22 14:15:13 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>0</vlan-tag>
+<vlan-index>2</vlan-index>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>None</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+</vlan-information>

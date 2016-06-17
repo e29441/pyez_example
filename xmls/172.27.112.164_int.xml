@@ -1,0 +1,26 @@
+<switching-interface-information style="brief">
+<interface>
+<interface-name>ae0.0</interface-name>
+<interface-state>down</interface-state>
+<interface-vlan-member-list>
+<interface-vlan-member>
+<interface-vlan-name>VLAN10</interface-vlan-name>
+<interface-vlan-member-tagid>10</interface-vlan-member-tagid>
+<interface-vlan-member-tagness>untagged</interface-vlan-member-tagness>
+<blocking-status emit="emit">unblocked</blocking-status>
+</interface-vlan-member>
+</interface-vlan-member-list>
+</interface>
+<interface>
+<interface-name>ge-0/0/23.0</interface-name>
+<interface-state>up</interface-state>
+<interface-vlan-member-list>
+<interface-vlan-member>
+<interface-vlan-name>VLAN11</interface-vlan-name>
+<interface-vlan-member-tagid>11</interface-vlan-member-tagid>
+<interface-vlan-member-tagness>untagged</interface-vlan-member-tagness>
+<blocking-status emit="emit">unblocked</blocking-status>
+</interface-vlan-member>
+</interface-vlan-member-list>
+</interface>
+</switching-interface-information>

@@ -1,0 +1,21 @@
+<vlan-information style="terse">
+<vlan-terse/>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>default</vlan-name>
+<vlan-create-time>Tue May 31 13:36:38 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>0</vlan-tag>
+<vlan-index>2</vlan-index>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>None</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+</vlan-information>

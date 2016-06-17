@@ -1,0 +1,50 @@
+<vlan-information style="terse">
+<vlan-terse/>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>default</vlan-name>
+<vlan-create-time>Sun Feb 14 21:19:47 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>0</vlan-tag>
+<vlan-index>4</vlan-index>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>None</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>vlan200</vlan-name>
+<vlan-create-time>Wed May 25 14:59:26 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>200</vlan-tag>
+<vlan-tag-string>200</vlan-tag-string>
+<vlan-index>5</vlan-index>
+<vlan-l3-interface>vlan.200 (DOWN)</vlan-l3-interface>
+<vlan-l3-interface-address>192.168.200.1/24</vlan-l3-interface-address>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-members-count>3</vlan-members-count>
+<vlan-members-upcount>0</vlan-members-upcount>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>ge-0/0/10.0</vlan-member-interface>
+</vlan-member>
+<vlan-member>
+<vlan-member-interface>ge-0/0/11.0</vlan-member-interface>
+</vlan-member>
+<vlan-member>
+<vlan-member-interface>ge-0/0/12.0</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+</vlan-information>

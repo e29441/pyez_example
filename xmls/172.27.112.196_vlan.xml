@@ -1,0 +1,45 @@
+<vlan-information style="terse">
+<vlan-terse/>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>default</vlan-name>
+<vlan-create-time>Mon Feb 15 18:55:33 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>0</vlan-tag>
+<vlan-index>2</vlan-index>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>None</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>vlan555</vlan-name>
+<vlan-create-time>Fri May 20 15:49:38 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>555</vlan-tag>
+<vlan-tag-string>555</vlan-tag-string>
+<vlan-index>6</vlan-index>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-members-count>2</vlan-members-count>
+<vlan-members-upcount>0</vlan-members-upcount>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>ge-0/0/0.0</vlan-member-interface>
+</vlan-member>
+<vlan-member>
+<vlan-member-interface>ge-0/0/1.0</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+</vlan-information>

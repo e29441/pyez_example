@@ -1,0 +1,51 @@
+<vlan-information style="terse">
+<vlan-terse/>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>EXT</vlan-name>
+<vlan-create-time>Thu May 26 20:48:32 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>10</vlan-tag>
+<vlan-tag-string>10</vlan-tag-string>
+<vlan-index>3</vlan-index>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-members-count>4</vlan-members-count>
+<vlan-members-upcount>3</vlan-members-upcount>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>ge-0/0/0.0*</vlan-member-interface>
+</vlan-member>
+<vlan-member>
+<vlan-member-interface>ge-0/0/1.0*</vlan-member-interface>
+</vlan-member>
+<vlan-member>
+<vlan-member-interface>ge-0/0/2.0*</vlan-member-interface>
+</vlan-member>
+<vlan-member>
+<vlan-member-interface>ge-0/0/23.0</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>default</vlan-name>
+<vlan-create-time>Tue Feb 16 18:23:12 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>0</vlan-tag>
+<vlan-index>2</vlan-index>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>None</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+</vlan-information>

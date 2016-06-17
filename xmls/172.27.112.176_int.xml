@@ -1,0 +1,78 @@
+<l2ng-l2ald-iff-interface-information>
+<l2ng-l2ald-iff-interface-entry style="brief">
+<l2iff-interface-lr-name/>
+<l2iff-interface-rtt-name>default-switch</l2iff-interface-rtt-name>
+<l2ng-l2ald-iff-interface-entry style="brief">
+<l2iff-interface-name>ae0.0</l2iff-interface-name>
+<l2iff-interface-vlan-name/>
+<l2iff-interface-mac-limit>294912</l2iff-interface-mac-limit>
+<l2iff-interface-vlan-member-stp-state/>
+<l2iff-interface-flags/>
+<l2iff-interface-vlan-member-tagness>tagged</l2iff-interface-vlan-member-tagness>
+</l2ng-l2ald-iff-interface-entry>
+<l2ng-l2ald-iff-interface-entry style="brief">
+<l2iff-interface-vlan-name>VLAN100</l2iff-interface-vlan-name>
+<l2iff-interface-vlan-id>100</l2iff-interface-vlan-id>
+<l2iff-interface-vlan-member-tagness>tagged</l2iff-interface-vlan-member-tagness>
+<l2iff-interface-mac-limit>294912</l2iff-interface-mac-limit>
+<l2iff-interface-vlan-member-stp-state>Forwarding</l2iff-interface-vlan-member-stp-state>
+<l2iff-interface-flags/>
+</l2ng-l2ald-iff-interface-entry>
+<l2ng-l2ald-iff-interface-entry style="brief">
+<l2iff-interface-vlan-name>VLAN101</l2iff-interface-vlan-name>
+<l2iff-interface-vlan-id>101</l2iff-interface-vlan-id>
+<l2iff-interface-vlan-member-tagness>tagged</l2iff-interface-vlan-member-tagness>
+<l2iff-interface-mac-limit>294912</l2iff-interface-mac-limit>
+<l2iff-interface-vlan-member-stp-state>Forwarding</l2iff-interface-vlan-member-stp-state>
+<l2iff-interface-flags/>
+</l2ng-l2ald-iff-interface-entry>
+<l2ng-l2ald-iff-interface-entry style="brief">
+<l2iff-interface-vlan-name>VLAN4000</l2iff-interface-vlan-name>
+<l2iff-interface-vlan-id>4000</l2iff-interface-vlan-id>
+<l2iff-interface-vlan-member-tagness>tagged</l2iff-interface-vlan-member-tagness>
+<l2iff-interface-mac-limit>294912</l2iff-interface-mac-limit>
+<l2iff-interface-vlan-member-stp-state>Forwarding</l2iff-interface-vlan-member-stp-state>
+<l2iff-interface-flags/>
+</l2ng-l2ald-iff-interface-entry>
+</l2ng-l2ald-iff-interface-entry>
+<l2ng-l2ald-iff-interface-entry style="brief">
+<l2iff-interface-lr-name/>
+<l2iff-interface-rtt-name>default-switch</l2iff-interface-rtt-name>
+<l2ng-l2ald-iff-interface-entry style="brief">
+<l2iff-interface-name>ae1.0</l2iff-interface-name>
+<l2iff-interface-vlan-name/>
+<l2iff-interface-mac-limit>294912</l2iff-interface-mac-limit>
+<l2iff-interface-vlan-member-stp-state/>
+<l2iff-interface-flags>DN</l2iff-interface-flags>
+<l2iff-interface-vlan-member-tagness>untagged</l2iff-interface-vlan-member-tagness>
+</l2ng-l2ald-iff-interface-entry>
+<l2ng-l2ald-iff-interface-entry style="brief">
+<l2iff-interface-vlan-name>VLAN100</l2iff-interface-vlan-name>
+<l2iff-interface-vlan-id>100</l2iff-interface-vlan-id>
+<l2iff-interface-vlan-member-tagness>untagged</l2iff-interface-vlan-member-tagness>
+<l2iff-interface-mac-limit>294912</l2iff-interface-mac-limit>
+<l2iff-interface-vlan-member-stp-state>Discarding</l2iff-interface-vlan-member-stp-state>
+<l2iff-interface-flags/>
+</l2ng-l2ald-iff-interface-entry>
+</l2ng-l2ald-iff-interface-entry>
+<l2ng-l2ald-iff-interface-entry style="brief">
+<l2iff-interface-lr-name/>
+<l2iff-interface-rtt-name>default-switch</l2iff-interface-rtt-name>
+<l2ng-l2ald-iff-interface-entry style="brief">
+<l2iff-interface-name>ae2.0</l2iff-interface-name>
+<l2iff-interface-vlan-name/>
+<l2iff-interface-mac-limit>294912</l2iff-interface-mac-limit>
+<l2iff-interface-vlan-member-stp-state/>
+<l2iff-interface-flags>DN</l2iff-interface-flags>
+<l2iff-interface-vlan-member-tagness>untagged</l2iff-interface-vlan-member-tagness>
+</l2ng-l2ald-iff-interface-entry>
+<l2ng-l2ald-iff-interface-entry style="brief">
+<l2iff-interface-vlan-name>VLAN101</l2iff-interface-vlan-name>
+<l2iff-interface-vlan-id>101</l2iff-interface-vlan-id>
+<l2iff-interface-vlan-member-tagness>untagged</l2iff-interface-vlan-member-tagness>
+<l2iff-interface-mac-limit>294912</l2iff-interface-mac-limit>
+<l2iff-interface-vlan-member-stp-state>Discarding</l2iff-interface-vlan-member-stp-state>
+<l2iff-interface-flags/>
+</l2ng-l2ald-iff-interface-entry>
+</l2ng-l2ald-iff-interface-entry>
+</l2ng-l2ald-iff-interface-information>

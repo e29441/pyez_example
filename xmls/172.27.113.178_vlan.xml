@@ -1,0 +1,45 @@
+<vlan-information style="terse">
+<vlan-terse/>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>VLAN13</vlan-name>
+<vlan-create-time>Thu Mar 31 11:56:36 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>13</vlan-tag>
+<vlan-tag-string>13</vlan-tag-string>
+<vlan-index>5</vlan-index>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-members-count>2</vlan-members-count>
+<vlan-members-upcount>2</vlan-members-upcount>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>ae0.0*</vlan-member-interface>
+</vlan-member>
+<vlan-member>
+<vlan-member-interface>ge-0/0/0.0*</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>default</vlan-name>
+<vlan-create-time>Thu Mar 31 11:47:43 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>0</vlan-tag>
+<vlan-index>4</vlan-index>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>None</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+</vlan-information>

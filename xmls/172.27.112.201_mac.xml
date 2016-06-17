@@ -1,0 +1,1744 @@
+<ethernet-switching-table-information style="brief">
+<ethernet-switching-table style="brief">
+<mac-table-count>193</mac-table-count>
+<mac-table-learned>186</mac-table-learned>
+<mac-table-persistent>0</mac-table-persistent>
+<mac-table-entry style="brief">
+<mac-vlan>ND_VLAN_2200</mac-vlan>
+<mac-address>*</mac-address>
+<mac-type>Flood</mac-type>
+<mac-age>-</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>All-members</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>*</mac-address>
+<mac-type>Flood</mac-type>
+<mac-age>-</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>All-members</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:00:5e:00:01:b7</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:01:30:11:a6:04</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:04:23:dd:5f:22</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="109">1:49</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:04:96:1f:13:dd</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="47">47</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:04:96:1f:2f:db</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="48">48</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:07:40:16:00:d3</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="80">1:20</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:0a:e4:25:4d:0e</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="73">1:13</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:0b:78:66:17:6a</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="110">1:50</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:0c:29:0d:eb:a5</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="252">4:12</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:0c:29:3e:23:86</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:0c:29:61:f9:69</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="164">2:44</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:0c:29:8f:86:96</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="134">2:14</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:0c:29:bd:da:81</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="158">2:38</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:0c:29:cd:f1:96</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="198">3:18</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:0c:29:f3:81:2c</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="48">48</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:0c:29:f8:ec:49</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:0d:56:3e:2f:f4</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="51">51</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:0f:20:10:4b:00</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="114">1:54</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:19:e2:54:60:3f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="254">4:14</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:19:e2:55:1e:3f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="51">51</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:19:e2:55:1f:bf</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="64">1:04</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:19:e2:55:48:3f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="167">2:47</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:1f:12:38:05:82</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="258">4:18</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:1f:12:38:06:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="34">34</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:1f:12:3d:e1:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="41">41</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:1f:12:3e:85:3f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="250">4:10</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:1f:12:3e:86:3f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="149">2:29</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:1f:12:3f:91:bf</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:1f:33:ea:ab:f8</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="179">2:59</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:21:59:90:86:3f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="257">4:17</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:21:59:90:d0:7f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="269">4:29</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:21:59:90:d1:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="39">39</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:21:59:c1:e6:3f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="151">2:31</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:21:59:cd:54:3f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:22:4d:37:59:73</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:22:83:86:a3:a8</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="147">2:27</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:23:9c:03:1c:42</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="184">3:04</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:23:9c:0c:d4:bf</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="170">2:50</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:23:9c:f0:fe:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="91">1:31</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:23:9c:f1:1c:21</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="244">4:04</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:25:90:a6:7d:25</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:26:88:f6:a8:00</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="70">1:10</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:7d:cc:37</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="55">55</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:80:00:02</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:80:00:03</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="55">55</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:80:00:04</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:84:55:48</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="90">1:30</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:8c:00:02</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="95">1:35</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:14:73</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:18:d2</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="270">4:30</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:2f:54</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="144">2:24</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:2f:55</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="49">49</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:38:30</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:3b:f3</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:4d:96</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="149">2:29</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:53:0e</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="32">32</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:5b:fc</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="119">1:59</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:5c:d9</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="38">38</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:62:96</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="212">3:32</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:64:a4</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:6e:9c</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="152">2:32</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:78:fc</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="223">3:43</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:95:79:3f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="147">2:27</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:bb:00:02</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:50:56:bd:be:b1</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="226">3:46</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:80:42:14:d5:4d</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="49">49</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:80:42:15:3f:37</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="268">4:28</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:90:1a:41:b6:a0</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="60">1:00</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:5c:44:2c</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="63">1:03</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:5c:45:f4</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="209">3:29</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:5c:7e:e4</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="255">4:15</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:5c:7f:ea</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="41">41</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:5f:c4:7b</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="224">3:44</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:61:97:bc</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:61:9c:fa</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="36">36</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:61:9d:27</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="57">57</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:61:fb:7b</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="58">58</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:65:42:8c</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="85">1:25</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:68:c4:62</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="299">4:59</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:77:5d:5d</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="90">1:30</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:78:6a:e6</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="172">2:52</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:79:8b:ce</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="60">1:00</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:7c:bf:f0</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="37">37</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:7c:c0:d1</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="37">37</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:7e:60:73</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="195">3:15</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:7f:f9:d6</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="266">4:26</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:a0:a5:88:52:94</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="73">1:13</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:c0:b7:53:64:9c</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="62">1:02</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:c0:b7:53:c2:39</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="176">2:56</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:c0:b7:53:c2:7b</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="207">3:27</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:c0:b7:54:b4:04</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:c0:b7:55:0b:69</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:c0:b7:b4:5c:7a</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="277">4:37</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:c0:b7:b5:da:fd</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="198">3:18</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:c0:b7:b5:ec:5b</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:d0:c9:bc:6f:8a</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="145">2:25</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:e0:86:09:d1:5d</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="165">2:45</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:e0:86:09:d1:b4</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="166">2:46</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:e0:86:09:d1:d1</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="166">2:46</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:e0:86:1b:2f:50</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="35">35</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:e0:86:1b:2f:5e</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="172">2:52</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>00:e0:86:20:23:4e</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="164">2:44</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>08:81:f4:42:18:28</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="68">1:08</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>08:81:f4:89:72:ef</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="181">3:01</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>0a:00:dd:c0:ff:0e</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>0c:c4:7a:ad:aa:e5</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>0c:c4:7a:ad:aa:e8</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>0c:c4:7a:ad:aa:e9</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>0c:c4:7a:ad:aa:ea</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>0c:c4:7a:ad:aa:eb</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>0c:c4:7a:ad:aa:ed</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>0c:c4:7a:ad:aa:ee</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>10:0e:7e:45:08:86</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="242">4:02</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>10:0e:7e:d6:1c:81</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="257">4:17</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>10:0e:7e:d9:81:06</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="131">2:11</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>10:0e:7e:d9:83:80</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="160">2:40</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>10:0e:7e:d9:86:80</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="283">4:43</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>20:4e:71:f3:34:0b</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="153">2:33</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>28:c0:da:3e:af:7f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="98">1:38</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>2c:6b:f5:3a:7e:7f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="79">1:19</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>2c:6b:f5:3f:92:7f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="75">1:15</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>2c:6b:f5:c9:2d:fc</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="240">4:00</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>34:17:eb:e9:10:2f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>34:17:eb:e9:10:48</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>34:17:eb:e9:10:4a</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>34:17:eb:e9:10:e9</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>34:17:eb:e9:11:07</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>34:17:eb:e9:12:57</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>34:17:eb:e9:12:96</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>34:17:eb:e9:13:53</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>34:17:eb:e9:14:a6</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>3c:61:04:de:28:70</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="113">1:53</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>3c:8a:b0:14:20:bd</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="103">1:43</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>3c:8a:b0:14:2f:fd</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="87">1:27</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>3c:8a:b0:8b:60:b7</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="282">4:42</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>3c:94:d5:8a:76:bd</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="146">2:26</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>3c:94:d5:f0:13:a8</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="30">30</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>44:f4:77:6c:29:38</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="57">57</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>44:f4:77:6c:56:38</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="151">2:31</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>44:f4:77:d9:88:a1</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>4c:96:14:e4:a2:c0</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="56">56</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>4c:96:14:f2:e7:a1</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="185">3:05</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>50:c5:8d:74:49:80</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>50:e5:49:a6:bc:7d</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="172">2:52</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>52:54:00:ec:8c:34</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>54:1e:56:65:ab:f8</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="271">4:31</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>54:1e:56:70:21:a1</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="284">4:44</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>54:4b:8c:b4:6c:60</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="201">3:21</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>54:4b:8c:b4:7c:80</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="294">4:54</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>5c:f3:fc:e6:78:9c</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>64:64:9b:a0:5b:82</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>78:19:f7:80:5e:bf</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>78:2b:cb:26:89:d3</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>78:e3:b5:0f:da:96</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>80:71:1f:c0:3b:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="209">3:29</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>80:71:1f:c0:46:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="187">3:07</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>80:71:1f:c5:58:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="51">51</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>80:71:1f:c5:b1:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="235">3:55</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>80:71:1f:c5:d2:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="110">1:50</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>80:71:1f:c6:9c:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>80:71:1f:c7:12:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="222">3:42</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>80:ac:ac:20:0f:f8</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="165">2:45</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>80:ac:ac:22:dc:46</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="135">2:15</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>80:ac:ac:da:9a:8f</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="81">1:21</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>84:18:88:c1:b1:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="263">4:23</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>84:18:88:c1:c9:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="247">4:07</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>84:18:88:d5:5c:e1</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="240">4:00</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>84:b5:9c:c4:0b:41</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="293">4:53</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>84:b5:9c:c4:8d:41</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="74">1:14</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>84:b5:9c:cc:5e:c1</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>a8:d0:e5:50:68:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="158">2:38</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>a8:d0:e5:50:70:ff</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>b0:c6:9a:31:88:80</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="55">55</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>c0:3f:d5:6b:0a:4c</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="133">2:13</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>dc:38:e1:2f:e4:28</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="56">56</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>dc:38:e1:58:a6:c1</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="58">58</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>dc:38:e1:58:c4:b8</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="47">47</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>dc:38:e1:d8:74:b8</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="108">1:48</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>e4:11:5b:a8:40:9c</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>ec:3e:f7:11:46:c0</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="141">2:21</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>ec:3e:f7:4f:37:56</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="77">1:17</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>ec:9e:cd:09:9e:12</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="213">3:33</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>f0:1f:af:dc:b2:e6</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>f0:92:1c:19:b4:d4</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="35">35</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>f0:de:f1:3f:dc:44</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="0">0</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>default</mac-vlan>
+<mac-address>f0:de:f1:93:36:a9</mac-address>
+<mac-type>Learn</mac-type>
+<mac-age seconds="100">1:40</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>ge-0/0/0.0</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>vlan-spotlight</mac-vlan>
+<mac-address>*</mac-address>
+<mac-type>Flood</mac-type>
+<mac-age>-</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>All-members</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>vlan1001</mac-vlan>
+<mac-address>*</mac-address>
+<mac-type>Flood</mac-type>
+<mac-age>-</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>All-members</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>vlan1002</mac-vlan>
+<mac-address>*</mac-address>
+<mac-type>Flood</mac-type>
+<mac-age>-</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>All-members</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>vlan1003</mac-vlan>
+<mac-address>*</mac-address>
+<mac-type>Flood</mac-type>
+<mac-age>-</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>All-members</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+<mac-table-entry style="brief">
+<mac-vlan>vlan1004</mac-vlan>
+<mac-address>*</mac-address>
+<mac-type>Flood</mac-type>
+<mac-age>-</mac-age>
+<mac-interfaces-list>
+<mac-interfaces>All-members</mac-interfaces>
+</mac-interfaces-list>
+</mac-table-entry>
+</ethernet-switching-table>
+</ethernet-switching-table-information>

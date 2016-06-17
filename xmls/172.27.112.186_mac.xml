@@ -1,0 +1,15 @@
+<l2ng-l2ald-rtb-macdb>
+<l2ng-l2ald-mac-entry-vlan style="brief-rtb">
+<mac-count-global>1</mac-count-global>
+<learnt-mac-count>1</learnt-mac-count>
+<l2ng-l2-mac-routing-instance>default-switch</l2ng-l2-mac-routing-instance>
+<l2ng-l2-vlan-id>30</l2ng-l2-vlan-id>
+<l2ng-mac-entry>
+<l2ng-l2-mac-vlan-name>mx-oam</l2ng-l2-mac-vlan-name>
+<l2ng-l2-mac-address>80:71:1f:c6:9c:c7</l2ng-l2-mac-address>
+<l2ng-l2-mac-flags>D</l2ng-l2-mac-flags>
+<l2ng-l2-mac-age>-</l2ng-l2-mac-age>
+<l2ng-l2-mac-logical-interface>ae1.0</l2ng-l2-mac-logical-interface>
+</l2ng-mac-entry>
+</l2ng-l2ald-mac-entry-vlan>
+</l2ng-l2ald-rtb-macdb>

@@ -1,0 +1,61 @@
+<vlan-information style="terse">
+<vlan-terse/>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>contrails</vlan-name>
+<vlan-create-time>Mon Feb 15 10:07:49 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>0</vlan-tag>
+<vlan-index>2</vlan-index>
+<vlan-l3-interface>vlan.2 (UP)</vlan-l3-interface>
+<vlan-l3-interface-address>10.84.50.59/24</vlan-l3-interface-address>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-members-count>7</vlan-members-count>
+<vlan-members-upcount>7</vlan-members-upcount>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>ge-0/0/33.0*</vlan-member-interface>
+</vlan-member>
+<vlan-member>
+<vlan-member-interface>ge-0/0/35.0*</vlan-member-interface>
+</vlan-member>
+<vlan-member>
+<vlan-member-interface>ge-0/0/39.0*</vlan-member-interface>
+</vlan-member>
+<vlan-member>
+<vlan-member-interface>xe-0/0/4.0*</vlan-member-interface>
+</vlan-member>
+<vlan-member>
+<vlan-member-interface>xe-0/0/5.0*</vlan-member-interface>
+</vlan-member>
+<vlan-member>
+<vlan-member-interface>xe-0/0/6.0*</vlan-member-interface>
+</vlan-member>
+<vlan-member>
+<vlan-member-interface>xe-0/0/7.0*</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+<vlan>
+<vlan-instance>0</vlan-instance>
+<vlan-name>default</vlan-name>
+<vlan-create-time>Mon Feb 15 10:07:49 2016
+</vlan-create-time>
+<vlan-status>Enabled</vlan-status>
+<vlan-owner>static</vlan-owner>
+<vlan-tag>0</vlan-tag>
+<vlan-index>3</vlan-index>
+<vlan-protocol-port>Port Mode</vlan-protocol-port>
+<vlan-detail>
+<vlan-member-list>
+<vlan-member>
+<vlan-member-interface>None</vlan-member-interface>
+</vlan-member>
+</vlan-member-list>
+</vlan-detail>
+</vlan>
+</vlan-information>
