@@ -1,1 +1,0 @@
-172.27.113.161,adzam,MX5-T,16.1-20160526_162_evpn_vxlan_mpls_stitch.0,F7021,BRIDGE_DOMAIN
